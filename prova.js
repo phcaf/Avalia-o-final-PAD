@@ -32,7 +32,14 @@ function calculator(numero1, numero2)
 {
   return callback => callback(numero1, numero2);
 }
-
+// 4° Quesito
+**
+ * O Resultado será este:
+ * 4
+ * 1
+ * 5
+ * 1
+ */
 
 // 5° Quesito
 
